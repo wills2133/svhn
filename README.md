@@ -1,5 +1,6 @@
 # Street View House Numbers
-### Udacity Capstone by Daliso Zuze
+
+tensorflow model to identify 5 digits house number
 
 ## Files
 
